@@ -1,0 +1,2 @@
+100000,2024-01-10,expense,house
+6000,2024-01,25,expense,friends

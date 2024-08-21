@@ -1,0 +1,2 @@
+salary,income,500000,2024-01-31
+rent,expense,25000,2024-01-20
